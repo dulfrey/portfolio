@@ -1,0 +1,33 @@
+[
+    {
+        "title":"Riesgos 360",
+        "client":"it270",
+        "category":"Mobile App",
+        "date":"2019",
+        "link":"http://riesgos360.com/",
+        "paragraph":"Riesgos360 es un sistema colaborativo en la nube, creado para informar, gestionar y compartir riesgos de emergencia, públicos o privados, permitiéndonos cumplir con nuestra obligación de reportar las amenazas.",
+        "paragraph2":"Esta plataforma brinda la posibilidad de reportar riesgos de diferentes tipos en cualquier lugar y compartirlos con familiares y amigos, además los enviamos a las entidades de atención según el lugar y el tipo para que tomen las acciones correspondientes.",
+        "cover":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606104625/riesgos360/riesgosportada_yvlmp9.jpg",
+        "coverDetail":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606104448/riesgos360/imagen-banner_fhn2cp.png",
+        "images":[
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606104432/riesgos360/4arYA3QAa0jDo8XC4lF_o9rlvEija1Iw10kRuXZEL1ngVOjIn8wiltBHIKFMEJYNjLI_w1440-h723_hjazn5.jpg",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606104791/riesgos360/Vo_vy4cs9vWYiBZ9dUaz0CaolhrBw3dwOwuVek7AfE-_pv3OEJ67S4mZx3S3_XpXxCA_w1440-h723_hkfh7b.jpg",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606104625/riesgos360/riesgosportada_yvlmp9.jpg"
+                ]
+    },
+    {
+        "title":"Departamento de Toxicología",
+        "client":"Facultad de Medicina UNAL",
+        "category":"Web App",
+        "date":"2017",
+        "link":"http://www.toxicologia.unal.edu.co/",
+        "paragraph":"El departamento de toxicología contribuye a la elaboración y resignificación del proyecto de Nación, estudia y enriquece el patrimonio cultural, natural y ambiental del país, como tal lo asesora en los órdenes científicos, con autonomía académica e investigativa en el campo de la toxicología.",
+        "paragraph2":"Produce y asimila el conocimiento científico universal requerido para la solución de los problemas sanitarios del país. ",
+        "cover":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158740/deptoxico/2_v2lrkf.png",
+        "coverDetail":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158740/deptoxico/2_v2lrkf.png",
+        "images":[
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158928/deptoxico/Screen_Shot_2020-11-23_at_2.14.16_PM_faysvn.png",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158740/deptoxico/2_v2lrkf.png"
+                ]
+    }
+]
