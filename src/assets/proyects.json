@@ -29,5 +29,20 @@
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158928/deptoxico/Screen_Shot_2020-11-23_at_2.14.16_PM_faysvn.png",
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606158740/deptoxico/2_v2lrkf.png"
                 ]
-    }
+    },
+    {
+        "title":"Bones UN",
+        "client":"ESCUELA INTERNACIONAL",
+        "category":"Web App",
+        "date":"2017",
+        "link":"https://dulfrey.github.io/bones/",
+        "paragraph":"Bones es la aplicación web que te ayudará a aprender sobre el sistema óseo con modelos en 3D.",
+        "paragraph2":"BONES UN es un prototipo diseñado para la enseñanza de los huesos del cuerpo humano como proyecto para el curso INTRODUCCIÓN A LA INNOVACIÓN Y AL USO DE TECNOLOGÍAS PARA EL APRENDIZAJE de la ESCUELA INTERNACIONAL de la Universidad Nacional de colombia. ",
+        "cover":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534404/bones/bones-cover_iroahn.png",
+        "coverDetail":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534404/bones/bones-cover_iroahn.png",
+        "images":[
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534400/bones/craneo_cz9yce.png",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534400/bones/hand_hisuds.png"
+                ]
+    }    
 ]
