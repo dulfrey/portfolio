@@ -28,7 +28,7 @@ export class ProyectsService {
   }
   
   getproyects(){
-    this.http.get('../assets/proyects.json').subscribe(data => {
+    this.http.get('https://raw.githubusercontent.com/dulfrey/portfolio/master/src/assets/proyects.json').subscribe(data => {
       this.proyectsData.next(data);
       return data;
     });
