@@ -44,5 +44,20 @@
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534400/bones/craneo_cz9yce.png",
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606534400/bones/hand_hisuds.png"
                 ]
+    },
+    {
+        "title":"PesCAR",
+        "client":"SKG",
+        "category":"Web App",
+        "date":"2018",
+        "link":"https://skgtecnologia.com/plataforma-de-evaluacion-seguimiento-y-control-ambiental-pescar-2/",
+        "paragraph":"La corporación Autónoma Regional de Cundinamarca como máxima autoridad ambiental en su jurisdicción, encargada de administrar los recursos naturales renovables y del medio ambiente del departamento, ejecutando políticas, planes, programas y proyectos ambientales, esta implementando una solución integral que le permitirá realizar el análisis, control y monitoreo de la calidad del aire, agua, residuos peligrosos, flor, fauna, índices meteorológicos, minería y todos los aspectos que influyen en mantener un ambiente sano, contribuyendo así, al desarrollo sostenible y armónico de la región.",
+        "paragraph2":"El sistema PESCAR permitirá lograr una gestión efectiva sobre las situaciones ambientales en el área de su jurisdicción contribuyendo a la construcción de una cultura ambiental regional y al desarrollo sostenible del departamento de Cundinamarca.",
+        "cover":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783704/Pescar/login_krigoh.png",
+        "coverDetail":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783704/Pescar/login_krigoh.png",
+        "images":[
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783656/Pescar/lista-de-capas-tramite_bk2rsw.jpg",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783625/Pescar/lista-de-capas-control-y-seguimiento-basica_ktvbfu.jpg"
+                ]
     }    
 ]
