@@ -11,8 +11,8 @@ export class ProyectsService {
 
   getProyectById(id: string) {
     return new Promise((resolve, reject)=>{
-      this.http.get('../assets/proyects.json').subscribe(data => {
-      // this.http.get('https://raw.githubusercontent.com/dulfrey/portfolio/master/src/assets/proyects.json').subscribe(data => {
+      // this.http.get('../assets/proyects.json').subscribe(data => {
+      this.http.get('https://raw.githubusercontent.com/dulfrey/portfolio/master/src/assets/proyects.json').subscribe(data => {
         this.proyectsData.next(data);
         if(typeof data[id] === 'undefined') {
           reject('does not exist')
