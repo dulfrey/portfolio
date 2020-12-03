@@ -46,6 +46,23 @@
                 ]
     },
     {
+        "title":"CNCL",
+        "client":"ICA",
+        "category":"Mobile App",
+        "date":"2018",
+        "link":"https://www.ica.gov.co/noticias/ica-compensa-ganaderos-afectados-aftosahttps://skgtecnologia.com/plataforma-de-evaluacion-seguimiento-y-control-ambiental-pescar-2/",
+        "paragraph":"RUV mobile is an application that allows capture the information for agrarian process, species and land use",
+        "paragraph2":"Forms, QR code reader, GeoLocation",
+        "cover":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1607029980/cncl/cncl-portada_zjq2g6.png",
+        "coverDetail":"https://res.cloudinary.com/dv4ioxcpv/image/upload/v1607029980/cncl/cncl-portada_zjq2g6.png",
+        "images":[
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1607028867/cncl/principal_wq0vur.png",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1607028947/cncl/Screenshot_20190211-202338_w44iie.png",
+            "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1607028976/cncl/Screenshot_20190211-202725_hyqz0l.png",
+            ""
+                ]
+    }    ,
+    {
         "title":"PesCAR",
         "client":"SKG",
         "category":"Web App",
