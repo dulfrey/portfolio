@@ -14,3 +14,5 @@ This is my portfolio with the most important development proyects
 
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 > Template is made by [Colorlib](https://colorlib.com)
+
+ng build --prod --output-path docs --base-href /portfolio/
