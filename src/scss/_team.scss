@@ -5,6 +5,7 @@
             overflow: hidden;
             img{
                 width: 100%;
+                padding: 10%;
                 @include transform(scale(1.1));
                 @include transition(.3s);
             }
