@@ -3826,16 +3826,16 @@ h3 {
 
 /* line 4, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_team.scss */
 .creative_people .single_people .thumb {
-  overflow: hidden;
+  overflow:visible;
 }
 
 /* line 6, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_team.scss */
 .creative_people .single_people .thumb img {
   width: 100%;
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;

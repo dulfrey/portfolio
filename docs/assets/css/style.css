@@ -3826,7 +3826,8 @@ h3 {
 
 /* line 4, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_team.scss */
 .creative_people .single_people .thumb {
-  overflow: hidden;
+  overflow:visible;
+
 }
 
 /* line 6, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_team.scss */
