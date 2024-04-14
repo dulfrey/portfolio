@@ -1,5 +1,55 @@
 [
     {
+        "title":"MetricsMed",
+        "client":"it270",
+        "category":"Web App",
+        "date":"2023",
+        "link":"https://caimed.metricsmed.health/",
+        "paragraph":"MetricsMed es una plataforma innovadora diseñada para revolucionar la forma en que se gestionan los datos médicos en entornos clínicos y de investigación. Nuestra plataforma integra tecnología avanzada con las mejores prácticas en el campo de la atención médica, proporcionando a los profesionales sanitarios y a los investigadores las herramientas necesarias para recopilar, almacenar, analizar y visualizar datos de manera eficiente y segura. Con MetricsMed, los usuarios pueden acceder a una amplia gama de funcionalidades, desde la gestión de historias clínicas electrónicas hasta la creación de informes personalizados y el seguimiento del progreso del tratamiento. Además, nuestra plataforma cumple con los estándares más estrictos de seguridad y privacidad de datos, garantizando la confidencialidad y la integridad de la información médica sensible.",
+        "paragraph2":"En MetricsMed, nos comprometemos a impulsar la innovación en el sector de la salud al ofrecer soluciones tecnológicas de vanguardia que aborden los desafíos actuales en la gestión de datos médicos. Nuestro equipo multidisciplinario de expertos en informática, ciencias de la salud y diseño de productos colabora estrechamente con clientes y socios para desarrollar soluciones personalizadas que satisfagan sus necesidades específicas. Ya sea en entornos clínicos, de investigación o académicos, MetricsMed se posiciona como el socio ideal para optimizar la gestión de datos médicos y mejorar los resultados clínicos y científicos.",
+        "cover":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713070105/portfolio/cebk253wlggccuwv2kfb.png",
+        "coverDetail":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713070105/portfolio/cebk253wlggccuwv2kfb.png",
+        "images":[
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713070483/portfolio/vdflzddqaxmqibkpc9uq.png",
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713070483/portfolio/icg18okwxrlg6mwkmrvj.png",
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713070483/portfolio/ksqo2dxjnhb0mcfslhxt.png",
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713070634/portfolio/koucbu3f5e7evwepo9xp.png"
+                ]
+    },
+    {
+        "title":"GINNA HALLY",
+        "client":"it270",
+        "category":"Mobile App",
+        "date":"2023",
+        "link":"https://apps.apple.com/us/app/ginna-hally/id6476575346",
+        "paragraph":"Ginna Hally es una aplicación para la realización de pausas activas a través de realidad virtual. Desde el primer momento contarás con la orientación de Ginna Hally, tu asistente virtual personalizada.",
+        "paragraph2":"Al ingresar, la app te sumergirá en el lobby, allí recibirás las primeras instrucciones para que tú experiencia sea confortable. Luego podrás ingresar al entorno de pilates, en donde contarás con un proceso de calentamiento y ejercicios que contribuirán con tu acondicionamiento físico y mental.",
+        "cover":"https://res.cloudinary.com/ddiwvr139/image/upload/v1712970343/portfolio/u80ekypub5rxvtsd81ou.jpg",
+        "coverDetail":"https://res.cloudinary.com/ddiwvr139/image/upload/v1712970343/portfolio/u80ekypub5rxvtsd81ou.jpg",
+        "images":[
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/75/c3/5875c37f-36ce-f750-2a57-feaa999f7a3d/dd891701-14e8-48d7-b74c-e4f732213355___iphone6---3.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1b/f7/61/1bf76106-f335-0a9b-df67-b7ec9ed03537/73eb9d6d-8089-4698-b8ce-0ba5f6beda78___iphone6---5.png/230x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/89/02/e3/8902e3c1-b7ce-0a82-a8cc-946bd99940d4/03b19a0c-23ee-4b6e-bc49-cabb0e11e184___iphone6---7.png/230x0w.webp"
+                ]
+    },
+    {
+        "title":"Ruta del Riesgo",
+        "client":"it270",
+        "category":"Mobile App",
+        "date":"2019",
+        "link":"https://play.google.com/store/apps/details?id=com.GenialStudios.RutaDelRiesgo",
+        "paragraph":"Enfréntate a un nuevo reto, superando las zonas de riesgo.",
+        "paragraph2":"Proyecto educativo Riesgos 360",
+        "cover":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713069095/portfolio/pibbvx9h8c0yb3gkezlo.png",
+        "coverDetail":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713069095/portfolio/pibbvx9h8c0yb3gkezlo.png",
+        "images":[
+            "https://play-lh.googleusercontent.com/lPdnWx5nksjDuCaSoJjtMvaTeLO5YVSczygzFxptH65TIQWKM1oguvlWHFy81bvYXQo=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/ek1oitYDJRViaMHIUvm5nhKuE5yLmf_1WQPWoj_og05nmuSo64uPkdk-lEl6ZtfmFcSN=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/i7oh5AX80eykBmPb_3AP7rniS3J89Qsyyr9-_3QCUsUJ64BaSUjLe3GVpZa3GqSgrQk=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/wvwImNEBv4jS7zP328rZdKXrJYBZUNfMsPCVzaI4bQm-VmtyXESb3rKvUPDbN669HrY=w526-h296-rw"
+                ]
+    },
+    {
         "title":"Riesgos 360",
         "client":"it270",
         "category":"Mobile App",
@@ -76,5 +126,22 @@
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783656/Pescar/lista-de-capas-tramite_bk2rsw.jpg",
             "https://res.cloudinary.com/dv4ioxcpv/image/upload/v1606783625/Pescar/lista-de-capas-control-y-seguimiento-basica_ktvbfu.jpg"
                 ]
-    }    
+    },
+    {
+        "title":"Riesgos Electorales",
+        "client":"it270",
+        "category":"Mobile App",
+        "date":"2022",
+        "link":"https://apps.apple.com/us/app/riesgos-360-electoral/id1480024341",
+        "paragraph":"Riesgos 360 es una innovación tecnológica que pretende involucrar a la comunidad en el conocimiento del riesgo electoral y hacer más fácil el trabajo de los expertos en riesgos.",
+        "paragraph2":"Esta plataforma brinda la posibilidad de reportar riegos de diferentes tipos en cualquier lugar para que las autoridades competentes tomen las acciones correspondientes, además de realizar gestión y seguimiento en mapas digitales, conservar información histórica de las acciones de prevención y mitigación realizadas.",
+        "cover":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713068445/portfolio/ragjudnqzutwt55608zc.png",
+        "coverDetail":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713068445/portfolio/ragjudnqzutwt55608zc.png",
+        "images":[
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/8a/5e/3b8a5e04-2a34-3b14-df31-222c840c8c2e/pr_source.png/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6b/d6/37/6bd63775-7d47-c71e-c464-f900bdd60155/pr_source.png/313x0w.webp",
+            "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/dc/29/abdc29a6-6b57-d6b0-3d90-b0415f17055c/pr_source.png/313x0w.webp"
+                ]
+    } 
+    
 ]
