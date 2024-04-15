@@ -1,4 +1,21 @@
 [
+
+    {
+        "title":"Triage Poblacional",
+        "client":"it270",
+        "category":"Web App",
+        "date":"2023",
+        "link":"https://www.triagepoblacional.org/",
+        "paragraph":"El Triage Poblacional Territorial es una herramienta que permite realizar un diagnóstico comparativo práctico acerca de la dinámica demográfica y poblacional, a partir de las relaciones con aspectos socioeconómicos y ambientales en tu región",
+        "paragraph2":"Permite a las autoridades locales, formuladores de políticas públicas y ciudadanía, disponer de información y análisis sobre las características de su población de forma comparativa a nivel municipal, departamental y nacional, para la construcción del diagnóstico territorial, la formulación de estrategias y definir metas de resultado para el mejoramiento de la calidad de vida de su población teniendo en cuenta la Agenda 2030 y sus Objetivos de Desarrollo Sostenible (ODS), las conferencias globales y regionales sobre población y desarrollo (El Cairo y Montevideo), y el Plan Nacional de Desarrollo (PND).",
+        "cover":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713194207/portfolio/xslbuzzs8leefacjdteu.jpg",
+        "coverDetail":"https://res.cloudinary.com/ddiwvr139/image/upload/v1713194207/portfolio/xslbuzzs8leefacjdteu.jpg",
+        "images":[
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713194474/portfolio/dulrtfbvovxeqimxmy3k.png",
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713194473/portfolio/floex0rm0v6latddy9u7.png",
+            "https://res.cloudinary.com/ddiwvr139/image/upload/v1713194474/portfolio/dkvks4ck6b6nv27cygc5.png"
+                ]
+    },
     {
         "title":"MetricsMed",
         "client":"it270",
