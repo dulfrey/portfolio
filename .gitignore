@@ -74,3 +74,7 @@ graphify-out/
 .dispatch-logs/
 .env
 build/
+obj/
+bin/Debug/
+bin/Release/
+__pycache__/
